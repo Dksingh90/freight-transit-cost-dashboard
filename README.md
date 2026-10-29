@@ -1,4 +1,5 @@
 # Freight Transit & Cost Performance Dashboard
+![Freight Transit & Cost Performance Dashboard](freight_dashboard.png)
 
 ## Overview
 An interactive Power BI dashboard designed to analyze freight transportation performance, delivery reliability, shipping costs, and disruption events. The dashboard helps identify delivery delays, compare transportation modes, and understand cost patterns across freight operations.
